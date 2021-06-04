@@ -9,6 +9,7 @@
     border-radius: 100px;
     opacity: 0.85;
     transition: 0.2s ease-in;
+    cursor: pointer;
 }
 
 .button:hover {
