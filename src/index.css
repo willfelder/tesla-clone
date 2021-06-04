@@ -1,11 +1,12 @@
 
-@font-face {
+ @font-face {
   /* This is the configuration of an exported font */
 
   font-family: 'iCielMedium';
   src: local('iCielMedium'), url('./fonts/iCiel-Medium.ttf') format('true');
   font-weight: normal;
 }
+
 
 * {
   margin: 0;
