@@ -35,3 +35,19 @@
 .button__white > a {
     color: rgb(37, 37, 37);
 }
+
+/* Mobile settings */
+
+@media (max-width: 500px) {
+    .button {
+        height: 40px;
+        width: 150px;
+        margin: 8px;
+        margin-bottom: 50px;
+    }
+
+    .button > a {
+        font-size: 12px;
+    }
+    
+}

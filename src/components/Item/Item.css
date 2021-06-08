@@ -49,3 +49,20 @@
     margin-top: 3%;
     justify-content: center;
 }
+
+/* Mobile settings */
+
+@media (max-width: 500px) {
+
+    /* this block of code is to let the title in the center*/
+    .item__container {
+        width: 50vw;
+    }
+    
+    .item__text {
+        margin-top: 100px;
+        font-size: 30px;
+        font-weight: 600;
+    }
+
+}
