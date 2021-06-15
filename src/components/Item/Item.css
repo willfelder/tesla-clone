@@ -52,7 +52,7 @@
 
 /* Mobile settings */
 
-@media (max-width: 500px) {
+@media (max-width: 768px) {
 
     /* this block of code is to let the title in the center*/
     .item__container {

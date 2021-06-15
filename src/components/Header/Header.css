@@ -39,3 +39,8 @@
 .header__right > p {
     margin: 10px;
 }
+
+.responsive__menu {
+    visibility: hidden;
+}
+
