@@ -20,12 +20,12 @@
     flex: 1;
     display: flex;
     justify-content: center;
-    cursor: pointer;
 }
 
 .header__center > p {
     margin: 10px;
     text-transform: uppercase;
+    cursor: pointer;
 }
 
 .header__right {
@@ -33,14 +33,29 @@
     justify-content: flex-end;
     text-transform: uppercase;
     margin-right: 40px;
-    cursor: pointer;
 }
 
 .header__right > p {
     margin: 10px;
+    cursor: pointer;
 }
 
-.responsive__menu {
+.responsive__menu, .navlink__open {
     visibility: hidden;
 }
 
+.burgerMenu__icon {
+    display: none;
+}
+
+@media (max-width: 768px) {
+
+    .header__center {
+        display: none;
+    }
+
+    .header__right {
+        visibility: hidden;
+    }
+
+}

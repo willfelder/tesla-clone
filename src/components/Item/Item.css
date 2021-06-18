@@ -56,13 +56,15 @@
 
     /* this block of code is to let the title in the center*/
     .item__container {
-        width: 50vw;
+        width: 80vw;
+        justify-content: center;
     }
     
     .item__text {
         margin-top: 100px;
         font-size: 30px;
         font-weight: 600;
+        margin-left: 20px;
     }
 
 }
