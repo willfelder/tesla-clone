@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/tesla-clone/static/css/main.ebb10816.chunk.css",
-    "main.js": "/tesla-clone/static/js/main.c3250c6b.chunk.js",
-    "main.js.map": "/tesla-clone/static/js/main.c3250c6b.chunk.js.map",
+    "main.css": "/tesla-clone/static/css/main.4cef2180.chunk.css",
+    "main.js": "/tesla-clone/static/js/main.c5b9b689.chunk.js",
+    "main.js.map": "/tesla-clone/static/js/main.c5b9b689.chunk.js.map",
     "runtime-main.js": "/tesla-clone/static/js/runtime-main.5395f7f6.js",
     "runtime-main.js.map": "/tesla-clone/static/js/runtime-main.5395f7f6.js.map",
     "static/js/2.1c8aa1c3.chunk.js": "/tesla-clone/static/js/2.1c8aa1c3.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.e6135961.chunk.js": "/tesla-clone/static/js/3.e6135961.chunk.js",
     "static/js/3.e6135961.chunk.js.map": "/tesla-clone/static/js/3.e6135961.chunk.js.map",
     "index.html": "/tesla-clone/index.html",
-    "static/css/main.ebb10816.chunk.css.map": "/tesla-clone/static/css/main.ebb10816.chunk.css.map",
+    "static/css/main.4cef2180.chunk.css.map": "/tesla-clone/static/css/main.4cef2180.chunk.css.map",
     "static/js/2.1c8aa1c3.chunk.js.LICENSE.txt": "/tesla-clone/static/js/2.1c8aa1c3.chunk.js.LICENSE.txt",
     "static/media/Desktop-Accessories.027ada94.jpg": "/tesla-clone/static/media/Desktop-Accessories.027ada94.jpg",
     "static/media/Desktop-Model3.30651f79.jpeg": "/tesla-clone/static/media/Desktop-Model3.30651f79.jpeg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.5395f7f6.js",
     "static/js/2.1c8aa1c3.chunk.js",
-    "static/css/main.ebb10816.chunk.css",
-    "static/js/main.c3250c6b.chunk.js"
+    "static/css/main.4cef2180.chunk.css",
+    "static/js/main.c5b9b689.chunk.js"
   ]
 }
