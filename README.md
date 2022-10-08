@@ -1,6 +1,6 @@
 ## Tesla Website Clone
 
-<img src="https://cdn.mos.cms.futurecdn.net/xz4NVQhHaHShErxar7YLn.jpg" alt="Tesla logo" style="height: 200px; width:300px;"/>
+<img src="https://cdn.mos.cms.futurecdn.net/xz4NVQhHaHShErxar7YLn.jpg" alt="Tesla logo" style="height: 200px; width:400px;"/>
 
 ## Features
 - Functional components.
